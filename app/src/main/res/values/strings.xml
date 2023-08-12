@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Counter Button</string>
+    <string name="clicks_quantity">Quantidade de clicks</string>
+    <string name="click">Click</string>
+</resources>
